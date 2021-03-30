@@ -271,6 +271,9 @@ I want probably make another shader related more to geomery than modelling, espe
 | Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 |[Simple Bend](https://www.shadertoy.com/view/Wlt3DM)|IQ shows a way to bend the space, I also had a deep look at "Joint 3d" of iapafoto.|![No Preview](https://www.shadertoy.com/media/shaders/Wlt3DM.jpg)|
+
+| Shader   | Comments | Preview  |
+| -------- | -------- | -------- |
 |[Octopi](https://www.shadertoy.com/view/3tycDW) | A rope function based on spline interpolation that may be very usefull for animation ! |![No Preview](https://www.shadertoy.com/media/shaders/3tycDW.jpg)|
 | [Drippy Room](https://www.shadertoy.com/view/MstGWX) | Water effect to study |![No Preview](https://www.shadertoy.com/media/shaders/MstGWX.jpg)|
 | [Raymarch template GGX](https://www.shadertoy.com/view/3tyyWm) | A proposal for a template thanks to darkeclipz |![No Preview](https://www.shadertoy.com/media/shaders/3tyyWm.jpg)|
@@ -296,6 +299,7 @@ I want probably make another shader related more to geomery than modelling, espe
 |[Marching Die](https://www.shadertoy.com/view/3sVBDd)|Shane publishing a new shader is always an event, like when you just received your favorite magazine.|![No Preview](https://www.shadertoy.com/media/shaders/3sVBDd.jpg)|
 |[Planetary gears golfed ( 439 ch)](https://www.shadertoy.com/view/ttdyRs)|Nice logo creation, golfed by Fabrice|![no preview](https://www.shadertoy.com/media/shaders/ttdyRs.jpg)|
 |[Caves - WebGLSamples ](https://www.shadertoy.com/view/wsyBWc)|Interactive creation on holes in a terrain|![no preview](https://www.shadertoy.com/media/shaders/wsyBWc.jpg)|
+
 ### Notes of December 2020
 
 Studied the shape of the Helix
