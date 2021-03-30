@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-* TOC {:toc}
+* TOC
 
 You can use the [editor on GitHub](https://github.com/sylvain69780/sylvain69780.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
