@@ -15,42 +15,9 @@ I can tell between 10 to 20 hours of cumulated work in general to get a presenta
 First have the idea and want to share it, work on the message associated to your creation, and good animation, limited artifacts, colors etc. 
 As IQ repeat in these videos, **you just need to fix ugly things**, and this needs a lot of time for a newbie, but it's realy pleasant. And the more you learn, the more you are able to see ugly things to fix.
 
-<style>
-img {width: 320;
-  height: 180;
-  }
-</style>
-
-By inverse order of creation time.
-
-<TABLE>
-  <TR>
-    <TH>
-      Hi
-    </TH>
-    <TH>
-      Hi
-    </TH>
-    <TH>
-      Hi
-    </TH>
-  </TR>
-  <TR>
-    <TD>
-[Bee Waggle Dance](https://www.shadertoy.com/view/ssX3W2)
-    </TD>
-    <TD>
-I started by trying to replicate the map of my dinner room that has some bee pattern on it, and this ended with this.
-    </TD>
-    <TD>
-![No Preview](https://www.shadertoy.com/media/shaders/ssX3W2.jpg)
-    </TD>
-  </TR>
-</TABLE>
-
 | Shader | Comments | Preview |
 | -------- | -------- | -------- |
-| [Bee Waggle Dance](https://www.shadertoy.com/view/ssX3W2) | I started by trying to replicate the map of my dinner room that has some bee pattern on it, and this ended with this. | ![No Preview](https://www.shadertoy.com/media/shaders/ssX3W2.jpg) |
+| [Bee Waggle Dance](https://www.shadertoy.com/view/ssX3W2) | I started by trying to replicate the map of my dinner room that has some bee pattern on it, and this ended with this. | <img src="https://www.shadertoy.com/media/shaders/ssX3W2.jpg" width="40%"> |
 | [Egg Hunt](https://www.shadertoy.com/view/ttyfDV) | Very quickly done with the new template of BigWings plus domain repetition and fun result ! I think the humain brain is wired to catch Eggs. | ![No Preview](https://www.shadertoy.com/media/shaders/ttyfDV.jpg) |
 | [Heart Ribbon](https://www.shadertoy.com/view/wtdBzl) | The Helicoid shape is far more complicated than I expected, obviously because with the difference of the Archimedian spiral, it's a 3D space figure. | ![No Preview](https://www.shadertoy.com/media/shaders/wtdBzl.jpg) |
 | [Waiting for two injections](https://www.shadertoy.com/view/3tGcDR) | On this one I played with the 3D fonts and the transparent effect. There is also a more serious message, of hope for 2021. But I'am not here to propagate any political message. | ![No Preview](https://www.shadertoy.com/media/shaders/3tGcDR.jpg) |
