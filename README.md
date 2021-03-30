@@ -183,8 +183,12 @@ Below my naive "groupie" comments about them !
 | FabriceNeyret2 | French (Grenoble, near Lyon where I live) spends a lot of time posting kind comments and tutos. A lot of advice to take ! |[web](http://evasion.imag.fr/~Fabrice.Neyret/demos/Shadertoy/) [Shadertoy](https://www.shadertoy.com/user/FabriceNeyret2)|
 
 ## My creations
-### What I know from now
+### My motivations
+
 Making shaders is like cooking, we try to impress and make me happy and also people watching at it. This is my first motivation.
+
+### I am and will still be an hobbyist !
+
 * I'am able to create a ray marching shader (based on BigWings template)
     * Modelling with SDF
     * Simple lightning
