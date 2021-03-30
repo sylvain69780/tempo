@@ -343,9 +343,13 @@ These can be found [searching using the helix keyword](https://www.shadertoy.com
 | [The Shining](https://www.shadertoy.com/view/3stBDf) | It is nice to see short AND readable programs, very usefull style, but too bloody for me ! The preview is black. | ![No Preview](https://www.shadertoy.com/media/shaders/3stBDf.jpg) |
 
 ### Notes of November 2020
+
 | Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 |[Several types of stella](https://www.shadertoy.com/view/WsyfWh)|To be studied |![No Preview](https://www.shadertoy.com/media/shaders/WsyfWh.jpg)|
+
+| Shader   | Comments | Preview  |
+| -------- | -------- | -------- |
 |[TRuck Driving](https://www.shadertoy.com/view/wsGBDh)|Very fun ! |![No Preview](https://www.shadertoy.com/media/shaders/wsGBDh.jpg)|
 |[(not) moving circle illusion](https://www.shadertoy.com/view/tdyfRR)|Fun illusion !|![No Preview](https://www.shadertoy.com/media/shaders/tdyfRR.jpg)|
 |[Fabrice's utilities](https://www.shadertoy.com/view/llySRh)||![No Preview](https://www.shadertoy.com/media/shaders/llySRh.jpg)|
