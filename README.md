@@ -17,9 +17,9 @@ As IQ repeat in these videos, **you just need to fix ugly things**, and this nee
 :::
 
 By inverse order of creation time.
-| Shader | Comments | Preview |
-| -------- | -------- | -------- |
-| [Bee Waggle Dance](https://www.shadertoy.com/view/ssX3W2) | I started by trying to replicate the map of my dinner room that has some bee pattern on it, and this ended with this. | ![No Preview](https://www.shadertoy.com/media/shaders/ssX3W2.jpg) |
+ Shader | Comments | Preview 
+--------| -------- | -------- 
+ [Bee Waggle Dance](https://www.shadertoy.com/view/ssX3W2) | I started by trying to replicate the map of my dinner room that has some bee pattern on it, and this ended with this. | ![No Preview](https://www.shadertoy.com/media/shaders/ssX3W2.jpg) 
 | [Egg Hunt](https://www.shadertoy.com/view/ttyfDV) | Very quickly done with the new template of BigWings plus domain repetition and fun result ! I think the humain brain is wired to catch Eggs. | ![No Preview](https://www.shadertoy.com/media/shaders/ttyfDV.jpg) |
 | [Heart Ribbon](https://www.shadertoy.com/view/wtdBzl) | The Helicoid shape is far more complicated than I expected, obviously because with the difference of the Archimedian spiral, it's a 3D space figure. | ![No Preview](https://www.shadertoy.com/media/shaders/wtdBzl.jpg) |
 | [Waiting for two injections](https://www.shadertoy.com/view/3tGcDR) | On this one I played with the 3D fonts and the transparent effect. There is also a more serious message, of hope for 2021. But I'am not here to propagate any political message. | ![No Preview](https://www.shadertoy.com/media/shaders/3tGcDR.jpg) |
