@@ -1,9 +1,9 @@
-# Welcome to Sylvain LC GitHub page
+# Shadertoy notebook
 
 * TOC
 {:toc}
 
-## Shadertoy notebook
+## Introduction
 ### How I "Discovered" Shadertoy
 
 | Shader | Comments | Preview |
@@ -182,6 +182,7 @@ Below my naive "groupie" comments about them !
 | Shane | Australian, Fantastic creator, creations always nice to watch, code easy to read and commented extensively, he's the Shakespeare of Shadertoy. |[web](http://Rhomboid.com) [Shadertoy](https://www.shadertoy.com/user/Shane)|
 | FabriceNeyret2 | French (Grenoble, near Lyon where I live) spends a lot of time posting kind comments and tutos. A lot of advice to take ! |[web](http://evasion.imag.fr/~Fabrice.Neyret/demos/Shadertoy/) [Shadertoy](https://www.shadertoy.com/user/FabriceNeyret2)|
 
+## My creations
 ### What I know from now
 Making shaders is like cooking, we try to impress and make me happy and also people watching at it. This is my first motivation.
 * I'am able to create a ray marching shader (based on BigWings template)
@@ -223,6 +224,7 @@ By inverse order of creation time.
 |[Rocket Toy](https://www.shadertoy.com/view/3dSBRG)|***Was very happy with this one***. I modelled the rocket for the first time with IQ's SDFs, without even understanding how the ligthing is working. Added a BigWings tutorial starfield background. Tried also a glow effect. Newbies can dare all. |![No Preview](https://www.shadertoy.com/media/shaders/3dSBRG.jpg)|
 |[SDF for Moss's Egg - for comment](https://www.shadertoy.com/view/wsBBR3) |I'am so proud, this stupid function of mine (total newbie) is mentioned on the IQ page about 2D distance functions ! How this can be possible ? This pushed me to find more distance functions, on spirals, helix ... but have the chance to find something really new is an illusion for a a beginner, I have to learn first ! |![No Preview](https://www.shadertoy.com/media/shaders/wsBBR3.jpg)|
 
+## Notes month per month
 ### Notes of March 2021
 
 | Shader | Comments | Preview |
@@ -402,7 +404,7 @@ Don't know for the moment how to do it.
 |https://shadertoy.com/view/XldSDn|very nice|![No Preview](https://www.shadertoy.com/media/shaders/XldSDn.jpg)|
 |https://www.shadertoy.com/view/Xtf3Rj|This one |![No Preview](https://www.shadertoy.com/media/shaders/Xtf3Rj.jpg)|
 
-### Notes of April 2020
+## Begin in April 2020
 ### Starting with P5.js
 All started with the **Coding Train** and David Shiftman's tutorials. 
 The P5.js online editor is great for starting some animations an you can make cools things easyly. 
