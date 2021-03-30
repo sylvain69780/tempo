@@ -263,11 +263,12 @@ I want probably make another shader related more to geomery than modelling, espe
 | [Paint streams](https://www.shadertoy.com/view/WtfyDj) | Shader of the week, awsome fluid simulation.|![No Preview](https://www.shadertoy.com/media/shaders/WtfyDj.jpg)|
 
 ### Notes of January 2021
+
 * I may have the idea to create a [syringe](http://t1.gstatic.com/images?q=tbn:ANd9GcQdQBMzk80Wb1Ez37QRUeum5zDsP5JB7YIglZhZnFKrLw5-9Z8zBTHxLtga53eDfrMcGF2YoFmrBYB1_ekUs0c) with 2021 on it instead of the graduation marks.
 * I wanted to create an **aminated character**, but the hair modeling is tricky. I leart about Beriez curves, there is an analytical distance fonction for quadratic because they are planar (3 control points), not for cubic (4 control points, the most communly used). I found another approach using arc of circles in [this](https://www.ryanjuckett.com/biarc-interpolation/) paper with C++ code and [this](https://arxiv.org/pdf/1711.00935.pdf) PDF using Mathlab. There about approximating [Spirals](https://www.rug.nl/research/portal/files/14477957/05c5.pdf).
 * There is a lot of ideas in [this shader](https://www.shadertoy.com/view/wlj3zV) in the comments about creating "splines" using arc of cirles. The try I'am currently doing with 3 joints main interest many guys, but I have to make it clean. The idea is to provide a length for the total of the join and have 3 numbers to set the proportions of the 3 segments.
 
-| Shader | Comments | Preview |
+| Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 |[Simple Bend](https://www.shadertoy.com/view/Wlt3DM)|IQ shows a way to bend the space, I also had a deep look at "Joint 3d" of iapafoto.|![No Preview](https://www.shadertoy.com/media/shaders/Wlt3DM.jpg)|
 |[Octopi](https://www.shadertoy.com/view/3tycDW) | A rope function based on spline interpolation that may be very usefull for animation ! |![No Preview](https://www.shadertoy.com/media/shaders/3tycDW.jpg)|
@@ -303,7 +304,7 @@ I had the idea to study the shape of the Helix, there is many examples of it on 
 I have an idea seems fun to make a scytale ! https://en.wikipedia.org/wiki/Scytale
 These can be found [searching using the helix keyword](https://www.shadertoy.com/results?query=helix&sort=popular&from=24&num=12)
 
-| Shader | Comments | Preview |
+| Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 | [Springs of Arbitrary Profile](https://www.shadertoy.com/view/ttB3DV) | **usefull to me** | ![ttB3DV](https://www.shadertoy.com/media/shaders/ttB3DV.jpg) |
 | [DNA helix](https://www.shadertoy.com/view/lt33RB) | shader with a lot of usefull functions **usefull to me** | ![lt33RB](https://www.shadertoy.com/media/shaders/lt33RB.jpg) |
@@ -311,7 +312,7 @@ These can be found [searching using the helix keyword](https://www.shadertoy.com
 
 ### Other shaders and acticles that interested me in December
 
-| Shader | Comments | Preview |
+| Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 | [OKLab color space](https://www.shadertoy.com/view/WtccD7)     | **RGB** is not the perfect tool to pick a color based on human perception, **HSV** is widely used instead, and this **OKLab** encoding even seems a better approach for some good reasons. **usefull for me**     | ![WtccD7](https://www.shadertoy.com/media/shaders/WtccD7.jpg)     |
 | [Day at the lake](https://www.shadertoy.com/view/wl3czN) | Cloud, water, terrain, **still magical for me**. | ![wl3czN](https://www.shadertoy.com/media/shaders/wl3czN.jpg) |
@@ -338,7 +339,7 @@ These can be found [searching using the helix keyword](https://www.shadertoy.com
 | [The Shining](https://www.shadertoy.com/view/3stBDf) | It is nice to see short AND readable programs, very usefull style, but too bloody for me ! The preview is black. | ![No Preview](https://www.shadertoy.com/media/shaders/3stBDf.jpg) |
 
 ### Notes of November 2020
-| Shader | Comments | Preview |
+| Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 |[Several types of stella](https://www.shadertoy.com/view/WsyfWh)|To be studied |![No Preview](https://www.shadertoy.com/media/shaders/WsyfWh.jpg)|
 |[TRuck Driving](https://www.shadertoy.com/view/wsGBDh)|Very fun ! |![No Preview](https://www.shadertoy.com/media/shaders/wsGBDh.jpg)|
@@ -361,7 +362,7 @@ I saw 3 types of spirals
 * Archimedian spirals that I used because there is a constant spacing between spires.
 * Double center spirals that are just built on arc of circles. 
 
-| Shader | Comments | Preview |
+| Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 | [a Cube in a spiral](https://www.shadertoy.com/view/wdGfzD) ||![No Preview](https://www.shadertoy.com/media/shaders/wdGfzD.jpg)|
 | [Spiral with N branches](https://www.shadertoy.com/view/4ldyWN) ||![No Preview](https://www.shadertoy.com/media/shaders/4ldyWN.jpg)|
@@ -401,7 +402,8 @@ Seems this need to be managed to avoid artifacts.
 Don't know for the moment how to do it.
 
 ### Notes of October 2020
-| Shader | Comments | Preview |
+
+| Shader   | Comments | Preview  |
 | -------- | -------- | -------- |
 |[Fab31 #inktober2020 "crawl" ](https://www.shadertoy.com/view/3d3fRr)|During Inktober, Fabrice made a crawling worm.|![No Preview](https://www.shadertoy.com/media/shaders/3d3fRr.jpg)|
 |https://shadertoy.com/view/WldGWM|this may be a good exercice to make it with joins as described by IQ here|![No Preview](https://www.shadertoy.com/media/shaders/WldGWM.jpg)|
