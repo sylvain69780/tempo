@@ -201,6 +201,8 @@ Making shaders is like cooking, we try to impress and make me happy and also peo
 * Have to learn about terrain rendering
 * Have to learn about cell shading
 * To be continued.
+
+
 ### My published shaders
 
 I don't publish all my creations and experiments, I only set a shader public when I think it's presentable and can be inspiring, I think this is what everyone is doing, this avoids to have too much public shaders to browse on Shadertoy. 
