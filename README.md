@@ -19,6 +19,11 @@ By inverse order of creation time.
 
 <TABLE>
   <TR>
+    <TH>
+      Hi
+    </TH>
+  </TR>
+  <TR>
     <TD>
       Hello
     </TD>
