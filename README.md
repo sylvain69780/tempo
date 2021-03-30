@@ -15,6 +15,12 @@ I can tell between 10 to 20 hours of cumulated work in general to get a presenta
 First have the idea and want to share it, work on the message associated to your creation, and good animation, limited artifacts, colors etc. 
 As IQ repeat in these videos, **you just need to fix ugly things**, and this needs a lot of time for a newbie, but it's realy pleasant. And the more you learn, the more you are able to see ugly things to fix.
 
+<style>
+img {width: 320;
+  height: 180;
+  }
+</style>
+
 By inverse order of creation time.
 
 <TABLE>
