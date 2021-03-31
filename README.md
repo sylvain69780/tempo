@@ -1,6 +1,7 @@
 # SLC Shadertoy Noob notebook
 
-I'am working hard to make this page something more serious and usefull you can rely on.
+I'am working hard to make this page something more serious and usefull, something you can rely on.
+
 For the moment please excuse me because it's a total mess.
 
 ![Noob](Regularnoob.png)
