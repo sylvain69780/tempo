@@ -1,12 +1,7 @@
 # SLC Shadertoy Noob notebook
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+I'am working hard to make this page something more serious and usefull you can rely on.
+For the moment please excuse me because it's a total mess.
 
 ![Noob](Regularnoob.png)
 
