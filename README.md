@@ -10,6 +10,7 @@
 
 | Shader | Comments | Preview |
 | -------- | -------- | -------- |
+| [LukeRissacher - Museum of random planets](https://www.shadertoy.com/view/XttGzj) | Interested by the colors, noise function and the terrain having terraces. | ![No Preview](https://www.shadertoy.com/media/shaders/XttGzj.jpg) |
 | [patu - Wreck Scanners ](https://www.shadertoy.com/view/4tfyzf) | DOF effect | ![No Preview](https://www.shadertoy.com/media/shaders/4tfyzf.jpg) |
 | [TekF - Realistic Flag](https://www.shadertoy.com/view/3tcfDf)   | May be very usefull to adapt with a different pattern ! | ![No Preview](https://www.shadertoy.com/media/shaders/3tcfDf.jpg) |
 | [munrocket - Fast glow with iteration count](https://www.shadertoy.com/view/3dcXWX)   | I searched a lot time how to make a glow effect. Finally get one from Shaw, this one may help also. | ![No Preview](https://www.shadertoy.com/media/shaders/3dcXWX.jpg) |
