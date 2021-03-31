@@ -249,6 +249,7 @@ I can see shaders in the following main categories (personal point of view)
     * No idea how they can even do it !
 * Optical illusions 
     * Fun ! But be prepared for headhatches if you look at it too long.
+
 ### Is there better alternatives to Shadertoy ?
 
 I like the community of Shadertoy, so even if more featured sites may exist, there is no better place for me today than Shadertoy to post a shader !
