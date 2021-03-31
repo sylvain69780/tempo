@@ -229,7 +229,7 @@ By inverse order of creation time.
 |[Walking donuts](https://www.shadertoy.com/view/tscfzs)  | After working on polar repetition. **tuto**|![No Preview](https://www.shadertoy.com/media/shaders/tscfzs.jpg)|
 |[Roundabout symetry](https://www.shadertoy.com/view/ts3yzB)  |**tuto** polar repetition, I think this transformation is missing the the IQ page about distance functions. But this is mentioned in one of his video tutorial. |![No Preview](https://www.shadertoy.com/media/shaders/ts3yzB.jpg)|
 |[Rocket Toy](https://www.shadertoy.com/view/3dSBRG)|***Was very happy with this one***. I modelled the rocket for the first time with IQ's SDFs, without even understanding how the ligthing is working. Added a BigWings tutorial starfield background. Tried also a glow effect. Newbies can dare all. |![No Preview](https://www.shadertoy.com/media/shaders/3dSBRG.jpg)|
-|[SDF for Moss's Egg - for comment](https://www.shadertoy.com/view/wsBBR3) |I'am so proud, this stupid function of mine (total newbie) is mentioned on the IQ page about 2D distance functions ! How this can be possible ? This pushed me to study more distance functions, on spirals, helix ... |![No Preview](https://www.shadertoy.com/media/shaders/wsBBR3.jpg)|
+|[SDF for Moss's Egg - for comment](https://www.shadertoy.com/view/wsBBR3) |I'am so proud, this stupid function of mine (total newbie) is mentioned on the IQ page about 2D distance functions (of course, optimized by IQ) ! This pushed me to study more distance functions, on spirals, helix ... |![No Preview](https://www.shadertoy.com/media/shaders/wsBBR3.jpg)|
 
 ## Notes month per month
 ### Notes of March 2021
