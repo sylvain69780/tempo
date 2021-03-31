@@ -1,4 +1,6 @@
-# SLC Shadertoy notebook
+# SLC Shadertoy Noob notebook
+
+![Noob](Regularnoob.png)
 
 * TOC
 {:toc}
